@@ -6,10 +6,10 @@
 
 I'm Om Prakash, a developer focused on generative AI. I build RAG chatbots and LLM agents in Python, and I'm equally interested in backend development: the APIs and systems that make AI features work in real applications.
 
-- 🔭 Currently building: **[what you're working on now]**
+- 🔭 Currently building: **[AI products and Scalabel backend for them]**
 - 🌱 Currently learning: **[e.g. multi-agent workflows with LangGraph, FastAPI, Docker]**
-- 🎯 Looking for: **[internships / entry-level roles / collaboration]**
-- 📍 Based in: **[your city]**
+- 🎯 Looking for: **[internships]**
+- 📍 Based in: **[Jaipur]**
 
 ## Tech stack
 
