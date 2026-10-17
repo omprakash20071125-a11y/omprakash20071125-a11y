@@ -34,5 +34,5 @@ The general shape of the agents I build: check the input, plan, act with tools i
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=58a6ff)][https://www.linkedin.com/in/om-prakash-gupta-686156377]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/om-prakash-gupta-686156377/)
 [![Email](https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=58a6ff)](mailto:omgupta251107@gmail.com)
