@@ -62,3 +62,7 @@ The general shape of the agents I build: check the input, plan, act with tools i
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+<a href="https://omprakashgupta-sepia.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-8B7CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/>
+</a>
